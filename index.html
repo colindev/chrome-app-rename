@@ -5,7 +5,15 @@
         <link rel="stylesheet" type="text/css" href="css/main.css" />
     </head>
     <body>
-        <button id="btn-choose-dir" type="button">Choose a dir</button>
+    	<div class="center">
+	    	<label><input id="inp-size" placeholder="3m" /> (k,m)</label>
+	        <button id="btn-choose-dir" type="button">Select a dir</button>
+	        <div id="display-dir"></div>
+	        <button id="btn-rename" type="button">Rename</button>
+	        <div id="display-error"></div>
+			<div id="display-process"></div>
+		</div>
+
         <script src="js/main.js"></script>
     </body>
 </html>
