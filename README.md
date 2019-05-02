@@ -11,19 +11,24 @@
 #### 啟用開發人員模式
 ---
 
-打開開發人員模式開關
+> 打開開發人員模式開關
+
 ![啟用開發人員模式](01.PNG)
 
 #### 從原始碼安裝 Chrome App
 ---
 
-點選 "載入為封裝項目" 按鈕
+> 點選 "載入為封裝項目" 按鈕
+
 ![安裝 Chrome App](02.PNG)
 
-選取 src 資料夾
+> 選取 src 資料夾
+
 ![選擇 src 資料夾](05.PNG)
 
 #### 啟動 Chrome App - chrome://apps
 ---
-點選 Rename App icon 啟動
+
+> 點選 Rename App icon 啟動
+
 ![啟動 Chrome App](04.PNG)
